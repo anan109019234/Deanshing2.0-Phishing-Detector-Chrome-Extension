@@ -1,6 +1,6 @@
 # Deanshing 2.0: Deteksi Phishing Real-time
 
-!Deanshing 2.0 adalah sebuah aplikasi pendeteksi URL phishing real-time yang terintegrasi sebagai ekstensi browser Google Chrome, didukung oleh backend Flask berbasis Python. Aplikasi ini dirancang untuk membantu pengguna mengidentifikasi URL yang mencurigakan, melindungi mereka dari potensi serangan phishing.
+Deanshing 2.0 adalah sebuah aplikasi pendeteksi URL phishing real-time yang terintegrasi sebagai ekstensi browser Google Chrome, didukung oleh backend Flask berbasis Python. Aplikasi ini dirancang untuk membantu pengguna mengidentifikasi URL yang mencurigakan, melindungi mereka dari potensi serangan phishing.
 
 ## Fitur Utama
 
