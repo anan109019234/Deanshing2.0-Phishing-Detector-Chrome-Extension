@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deanshing 2.0</title>
+    <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+    <h1>
+        <img src="icons/logo.png" alt="Deanshing Logo" class="logo-title">
+        <span>DEANSHING</span>
+    </h1>
+    <div class="input-section">
+        <label for="urlInput">Enter URL:</label>
+        <input type="url" id="urlInput" placeholder="https://example.com" autofocus>
+    </div>
+    <p>Current Tab URL: <span id="urlDisplay">Loading...</span></p>
+    <button id="checkButton">Check URL</button>
+    <div id="result" class="status"></div>
+    <div id="probabilities"></div>
+    <div id="errorMsg" class="error-message"></div>
+    <script src="popup.js"></script>
+</body>
+</html>

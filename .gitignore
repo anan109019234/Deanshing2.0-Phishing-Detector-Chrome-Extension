@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.nox/
+.coverage
+.ruff_cache/
+
+# OS
+.DS_Store
+.Trashes
+Thumbs.db
+
+# IDE (jika menggunakan)
+.vscode/
+.idea/
+
+# Logs
+*.log
+log/
+
+# Extension specific (jika ada file build/temp khusus)
+# Misalnya, jika ada folder output build otomatis:
+# build/
+# dist/

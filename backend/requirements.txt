@@ -1,0 +1,9 @@
+Flask
+joblib
+numpy
+scikit-learn
+beautifulsoup4
+requests
+googlesearch-python
+python-whois
+python-dateutil
